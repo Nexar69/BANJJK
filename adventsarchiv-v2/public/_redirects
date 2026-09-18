@@ -1,0 +1,15 @@
+/api/session/create /.netlify/functions/session-create 200
+/api/session/join /.netlify/functions/session-join 200
+/api/team/state /.netlify/functions/team-state 200
+/api/team/answer /.netlify/functions/team-answer 200
+/api/leaderboard /.netlify/functions/leaderboard 200
+/api/host/state /.netlify/functions/host-state 200
+/api/host/close /.netlify/functions/host-close 200
+/api/host/config /.netlify/functions/host-config 200
+/api/team/checkpoint /.netlify/functions/team-checkpoint 200
+/api/team/finalize /.netlify/functions/team-finalize 200
+/api/moderation/state /.netlify/functions/moderation-state 200
+/api/moderation/action /.netlify/functions/moderation-action 200
+/play/* /play/index.html 200
+
+/x/* /finale/index.html 200
