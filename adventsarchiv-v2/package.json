@@ -1,0 +1,13 @@
+{
+  "name": "adventsarchiv-v2",
+  "private": true,
+  "version": "2.3.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test-game.mjs",
+    "test:api": "node tests/test-api.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
